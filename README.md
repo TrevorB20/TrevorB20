@@ -22,33 +22,6 @@ My journey in IT has led me to develop a passion for Cloud DevOps Engineering, a
 | 𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗼𝗻 𝗔𝗪𝗦 𝗘𝗖𝟮 𝘄/ 𝗡𝗚𝗜𝗡𝗫 & 𝗦𝟯: 𝗔 𝗦𝘁𝗲𝗽 𝗯𝘆 𝗦𝘁𝗲𝗽 𝗚𝘂𝗶𝗱𝗲           | <a href="https://medium.com/@TrevorB4135/-dc9f4194b9ea)">𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗼𝗻 𝗔𝗪𝗦 𝗘𝗖𝟮 𝘄/ 𝗡𝗚𝗜𝗡𝗫 & 𝗦𝟯: 𝗔 𝗦𝘁𝗲𝗽 𝗯𝘆 𝗦𝘁𝗲𝗽 𝗚𝘂𝗶𝗱𝗲               |
 | 𝘾𝙤𝙣𝙛𝙞𝙜𝙪𝙧𝙚𝙙 𝘼𝙥𝙖𝙘𝙝𝙚 𝙒𝙚𝙗 𝙎𝙚𝙧𝙫𝙚𝙧 𝙊𝙣 𝙇𝙞𝙣𝙪𝙭        | <a href="https://medium.com/@TrevorB4135/-f130b30121e0">𝘾𝙤𝙣𝙛𝙞𝙜𝙪𝙧𝙚𝙙 𝘼𝙥𝙖𝙘𝙝𝙚 𝙒𝙚𝙗 𝙎𝙚𝙧𝙫𝙚𝙧 𝙊𝙣 𝙇𝙞𝙣𝙪𝙭         |
 | Secure Remote Administration and Troubleshooting of EC2 Instances using SSH                    | <a href="https://medium.com/@TrevorB4135/secure-remote-administration-and-troubleshooting-of-ec2-instances-using-ssh-f0efc366c594">Secure Remote Administration and Troubleshooting of EC2 Instances using SSH
-Trevor Boodram                  |      
-
-
-### Network
-
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
-    <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-</div>
-
-### Endpoint
-
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### SIEM
-
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Certifications
 
