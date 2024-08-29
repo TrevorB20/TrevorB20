@@ -10,7 +10,7 @@ Self Taught IT Guy focused on Troubleshooting complex problems, with a profound 
 ## Objective
 
 
-My journey in IT has led me to develop a passion for Cloud Security, and I am now eager to transition into this field, specifically aiming to join a Cloud Engineering team as a Cloud DevOps Engineer
+My journey in IT has led me to develop a passion for Cloud DevOps Engineering, and I am now eager to transition into this field, specifically aiming to join a Cloud Engineering team as a Cloud DevOps Engineer
 
 ## Skills
 
@@ -22,12 +22,8 @@ My journey in IT has led me to develop a passion for Cloud Security, and I am no
 | 𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗼𝗻 𝗔𝗪𝗦 𝗘𝗖𝟮 𝘄/ 𝗡𝗚𝗜𝗡𝗫 & 𝗦𝟯: 𝗔 𝗦𝘁𝗲𝗽 𝗯𝘆 𝗦𝘁𝗲𝗽 𝗚𝘂𝗶𝗱𝗲           | <a href="https://medium.com/@TrevorB4135/-dc9f4194b9ea)">𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗼𝗻 𝗔𝗪𝗦 𝗘𝗖𝟮 𝘄/ 𝗡𝗚𝗜𝗡𝗫 & 𝗦𝟯: 𝗔 𝗦𝘁𝗲𝗽 𝗯𝘆 𝗦𝘁𝗲𝗽 𝗚𝘂𝗶𝗱𝗲               |
 | 𝘾𝙤𝙣𝙛𝙞𝙜𝙪𝙧𝙚𝙙 𝘼𝙥𝙖𝙘𝙝𝙚 𝙒𝙚𝙗 𝙎𝙚𝙧𝙫𝙚𝙧 𝙊𝙣 𝙇𝙞𝙣𝙪𝙭        | <a href="https://medium.com/@TrevorB4135/-f130b30121e0">𝘾𝙤𝙣𝙛𝙞𝙜𝙪𝙧𝙚𝙙 𝘼𝙥𝙖𝙘𝙝𝙚 𝙒𝙚𝙗 𝙎𝙚𝙧𝙫𝙚𝙧 𝙊𝙣 𝙇𝙞𝙣𝙪𝙭         |
 | Secure Remote Administration and Troubleshooting of EC2 Instances using SSH                    | <a href="https://medium.com/@TrevorB4135/secure-remote-administration-and-troubleshooting-of-ec2-instances-using-ssh-f0efc366c594">Secure Remote Administration and Troubleshooting of EC2 Instances using SSH
-Trevor Boodram                  |
-<!-- | Scripting and Automation for Threat Mitigation  | <a href="https://google.com">SOC Automation        | -->
+Trevor Boodram                  |      
 
-### LINKS TO WIRESHARK PROJECT WILL BE UPDATED SOON
-
-## Tools
 
 ### Network
 
@@ -62,10 +58,11 @@ Trevor Boodram                  |
 
 ## Projects
 
-- Splunk Enterprise ( SIEM )
-- Microsoft Sentinel ( SIEM )
-- End Point Detection && Response ( LimaCharlie & Sliver )
-- Active Directory Configuration & Troubleshooting
+- Secure Remote Administration with AWS System Manager (SSM)
+- Create An S3 Bucket hosting a Static Website Using Cloud Front
+- 𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗼𝗻 𝗔𝗪𝗦 𝗘𝗖𝟮 𝘄/ 𝗡𝗚𝗜𝗡𝗫 & 𝗦𝟯: 𝗔 𝗦𝘁𝗲𝗽 𝗯𝘆 𝗦𝘁𝗲𝗽 𝗚𝘂𝗶𝗱𝗲
+- 𝘾𝙤𝙣𝙛𝙞𝙜𝙪𝙧𝙚𝙙 𝘼𝙥𝙖𝙘𝙝𝙚 𝙒𝙚𝙗 𝙎𝙚𝙧𝙫𝙚𝙧 𝙊𝙣 𝙇𝙞𝙣𝙪𝙭
+- Secure Remote Administration and Troubleshooting of EC2 Instances using SSH
 
 
 ### :hammer_and_wrench: Languages and Tools :
