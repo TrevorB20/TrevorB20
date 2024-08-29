@@ -17,11 +17,12 @@ My journey in IT has led me to develop a passion for Cloud Security, and I am no
 
 | Skill                                           | Associated Project                                    |
 | ----------------------------------------------- | ----------------------------------------------------- |
-| Active Directory Configuration and Troubleshooting |         <a href="#">Active Directory Lab</a> |
-| Endpoint Detection && Response | <a href="#">EndPoint Detection & Response</a> |
-| Splunk Enterprise           | <a href="#">Splunk SIEM               |
-| Microsoft Sentinel SIEM        | <a href="#">Sentinel SIEM         |
-| Wireshark                    | <a href="#">Packet Capture PCAP                  |
+| Secure Remote Administration with AWS System Manager (SSM) | <a href="https://medium.com/@TrevorB4135/secure-remote-administration-with-aws-system-manager-ssm-9b981cf07fb7">Secure Remote Administration with AWS System Manager (SSM)</a> |
+| Create An S3 Bucket hosting a Static Website Using Cloud Front | <a href="https://medium.com/@TrevorB4135/create-an-s3-bucket-hosting-a-static-website-using-cloud-front-910bdf388e49">Create An S3 Bucket hosting a Static Website Using Cloud Front</a> |
+| 𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗼𝗻 𝗔𝗪𝗦 𝗘𝗖𝟮 𝘄/ 𝗡𝗚𝗜𝗡𝗫 & 𝗦𝟯: 𝗔 𝗦𝘁𝗲𝗽 𝗯𝘆 𝗦𝘁𝗲𝗽 𝗚𝘂𝗶𝗱𝗲           | <a href="[https://medium.com/@TrevorB4135/-92cd26f233fa](https://medium.com/@TrevorB4135/-dc9f4194b9ea)">𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗼𝗻 𝗔𝗪𝗦 𝗘𝗖𝟮 𝘄/ 𝗡𝗚𝗜𝗡𝗫 & 𝗦𝟯: 𝗔 𝗦𝘁𝗲𝗽 𝗯𝘆 𝗦𝘁𝗲𝗽 𝗚𝘂𝗶𝗱𝗲               |
+| 𝘾𝙤𝙣𝙛𝙞𝙜𝙪𝙧𝙚𝙙 𝘼𝙥𝙖𝙘𝙝𝙚 𝙒𝙚𝙗 𝙎𝙚𝙧𝙫𝙚𝙧 𝙊𝙣 𝙇𝙞𝙣𝙪𝙭        | <a href="https://medium.com/@TrevorB4135/-f130b30121e0">𝘾𝙤𝙣𝙛𝙞𝙜𝙪𝙧𝙚𝙙 𝘼𝙥𝙖𝙘𝙝𝙚 𝙒𝙚𝙗 𝙎𝙚𝙧𝙫𝙚𝙧 𝙊𝙣 𝙇𝙞𝙣𝙪𝙭         |
+| Secure Remote Administration and Troubleshooting of EC2 Instances using SSH                    | <a href="https://medium.com/@TrevorB4135/secure-remote-administration-and-troubleshooting-of-ec2-instances-using-ssh-f0efc366c594">Secure Remote Administration and Troubleshooting of EC2 Instances using SSH
+Trevor Boodram                  |
 <!-- | Scripting and Automation for Threat Mitigation  | <a href="https://google.com">SOC Automation        | -->
 
 ### LINKS TO WIRESHARK PROJECT WILL BE UPDATED SOON
